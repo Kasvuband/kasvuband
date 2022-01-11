@@ -1,2 +1,3 @@
 kasvu-kotisivu Grayscale Bootstrapista.. 
-missäsvalokuvat häh?
+
+valokuvat vaihtoon, alasivuille oma look
